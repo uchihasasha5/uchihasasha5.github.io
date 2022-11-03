@@ -1,0 +1,14 @@
+p{
+  font-size: 20px;
+}
+.achievments { font-family: fantasy;
+}
+.optional article h3 {
+  font-size: 32px; color: DarkOrange
+}
+
+#main {
+  color: white;
+  width: 750px;
+  height: 350px;
+}
